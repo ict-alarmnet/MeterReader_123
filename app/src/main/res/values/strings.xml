@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Zebra Meter Reader</string>
+    <string name="meter_id">Meter ID</string>
+    <string name="scan_meter_id">Scan Meter ID (Barcode)</string>
+    <string name="type_label">Type</string>
+    <string name="water_or_power">Water or Power</string>
+    <string name="reading_label">Reading</string>
+    <string name="scan_reading_ocr">Scan Reading (OCR)</string>
+    <string name="manual_input">Manual Input</string>
+    <string name="meter_disconnected">Meter is disconnected</string>
+    <string name="remarks_hint">Remarks</string>
+    <string name="accept_reading">Accept Reading</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="tip_text">Tip: Use hardware trigger for OCR capture. Free-Form OCR can be enabled in DataWedge.</string>
+
+    <!-- Barcode screen -->
+    <string name="press_trigger_barcode">Press the hardware trigger to scan the Meter ID barcode…</string>
+    <string name="ready">Ready</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- OCR screen -->
+    <string name="start_ocr_session">Start OCR Session</string>
+    <string name="tap_then_trigger">Tap Start, then press the hardware trigger to capture reading via OCR.</string>
+</resources>
